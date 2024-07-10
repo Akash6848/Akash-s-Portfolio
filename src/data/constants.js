@@ -141,7 +141,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Web Development Intern",
     company: "IT JOBXS.COM",
-    date: "Jan 2024 - April 2023",
+    date: "Jan 2024 - March 2024",
     desc: " Developed and launched a responsive webpage for Desi QnA, increasing mobile traffic by 35 percent, and integrated advanced bot detection systems, successfully eliminating 75 percent of fake posts and accounts Integrated Recaptcha with the website - Google Layer of Protection for websites",
     skills: [
       "HTML",
