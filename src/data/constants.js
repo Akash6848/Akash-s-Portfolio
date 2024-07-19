@@ -128,7 +128,7 @@ export const skills = [
         name: "Time Management",
       },
       {
-        name: "Leadrership",
+        name: "Leadership",
       },
       
     ],
