@@ -159,7 +159,7 @@ export const education = [
     id: 0,
     school: "Pranveer Singh Institute of Technology, Kanpur",
     date: "Nov 2021 - July 2025",
-    grade: "9.0 CGPA",
+    grade: "8.9 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Pranveer Singh Institute of Technology, Kanpur. I have courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am learning and working on exciting projects and building a strong problem solving skill",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
@@ -187,7 +187,7 @@ export const projects = [
   {
     id: 9,
     title: "Job Portal Website",
-    date: "Jun 2024 - Jul 2024",
+    date: "October 2023 - December 2023",
     description:
       "Developed a comprehensive job portal website designed to connect job seekers with employers, featuring advanced search functionalities, user-friendly interfaces.",
     // image:
@@ -205,8 +205,8 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Careersurf",
-    date: "August 2023 - Nov 2023",
+    title: "CareerSurf",
+    date: "July 2023 - August 2023",
     description:
       "This frontend project provides a complete guidance path for any student who wants to excel in their career. This project is to empower you with the information and confidence to make informed career choices",
     // image:
@@ -222,7 +222,7 @@ export const projects = [
   {
     id: 3,
     title: "Weather Web App",
-    date: "Dec 2022 - Jan 2023",
+    date: "Dec 2022",
     description:
       "Built a project that provides current weather condition of selected city.",
     // image:
