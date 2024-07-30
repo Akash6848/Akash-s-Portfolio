@@ -9,7 +9,7 @@ export let Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Akash6848",
   resume:
-    "https://drive.google.com/file/d/1JzN65h8Y-QpOmgdmjfKl2_Yo0kh53aGy/view?usp=sharing",
+    "https://drive.google.com/file/d/1t8pWLTBbo9vDae4yRUslutg9a7SEX4Zg/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/akash-kumar-srivastava-981a2722b/",
   instagram:"https://www.instagram.com/iam_akash.122/",
 };
