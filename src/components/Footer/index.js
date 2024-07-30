@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.instagram} target="display"><InstagramIcon/></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Akash. All rights reserved.
+          &copy; 2024 Akash. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
