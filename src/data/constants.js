@@ -160,7 +160,7 @@ export const education = [
     school: "Pranveer Singh Institute of Technology, Kanpur",
     date: "Nov 2021 - July 2025",
     grade: "8.9 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Pranveer Singh Institute of Technology, Kanpur. I have courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am learning and working on exciting projects and building a strong problem solving skill",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Pranveer Singh Institute of Technology, Kanpur. I have courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am learning and working on exciting projects and building a strong problem solving skill.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
