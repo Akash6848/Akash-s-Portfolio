@@ -139,10 +139,10 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Web Development Intern",
-    company: "IT JOBXS.COM",
-    date: "Jan 2024 - March 2024",
-    desc: " Developed and launched a responsive webpage for Desi QnA, increasing mobile traffic by 35 percent, and integrated advanced bot detection systems, successfully eliminating 75 percent of fake posts and accounts Integrated Recaptcha with the website - Google Layer of Protection for websites",
+    role: "Associate Product Engineer Intern",
+    company: "DeltaX",
+    date: "Feb 2025 - Ongoing",
+    desc: " Spearheading the end-to-end full-stack development of a scalable Movie Rating Web Application to deliver seamless user experience and efficient data handling. Designing and developing robust RESTful APIs using ASP.NET and C#, ensuring secure and efficient communication between client and server layers.",
     skills: [
       "HTML",
       "CSS",
